@@ -135,7 +135,7 @@ hireable:     true
 ### 💬 [Chocogram](https://github.com/w4simg/chocogram)
 > *A real-time chat realm*
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=w4simg&repo=chocogram&theme=midnight-purple&bg_color=0d0d2b&border_color=7c3aed&title_color=a78bfa&text_color=e2e8f0)](https://github.com/w4simg/chocogram)
+[![Chocogram](https://gh-card.dev/repos/w4simg/chocogram.svg?fullname=1)](https://github.com/w4simg/chocogram)
 
 🌐 [chocogram.onrender.com](https://chocogram.onrender.com) · `HTML` · ⭐ 2
 
@@ -145,7 +145,7 @@ hireable:     true
 ### 🤖 [Tessia AI](https://github.com/w4simg/tessia-ai)
 > *An arcane AI companion*
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=w4simg&repo=tessia-ai&theme=midnight-purple&bg_color=0d0d2b&border_color=7c3aed&title_color=a78bfa&text_color=e2e8f0)](https://github.com/w4simg/tessia-ai)
+[![Tessia AI](https://gh-card.dev/repos/w4simg/tessia-ai.svg?fullname=1)](https://github.com/w4simg/tessia-ai)
 
 🌐 [w4simg.github.io/tessia-ai](https://w4simg.github.io/tessia-ai) · `JavaScript` · ⭐ 1
 
@@ -157,7 +157,7 @@ hireable:     true
 ### 🧠 [AI Model Hub](https://github.com/w4simg/ai_model_hub)
 > *Gateway to multiple AI realms*
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=w4simg&repo=ai_model_hub&theme=midnight-purple&bg_color=0d0d2b&border_color=7c3aed&title_color=a78bfa&text_color=e2e8f0)](https://github.com/w4simg/ai_model_hub)
+[![AI Model Hub](https://gh-card.dev/repos/w4simg/ai_model_hub.svg?fullname=1)](https://github.com/w4simg/ai_model_hub)
 
 🌐 [ai-model-hub-omega.vercel.app](https://ai-model-hub-omega.vercel.app) · `JavaScript`
 
@@ -167,7 +167,7 @@ hireable:     true
 ### 🖼️ [Image Generator](https://github.com/w4simg/Image_generat0r)
 > *Conjure images from thin air*
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=w4simg&repo=Image_generat0r&theme=midnight-purple&bg_color=0d0d2b&border_color=7c3aed&title_color=a78bfa&text_color=e2e8f0)](https://github.com/w4simg/Image_generat0r)
+[![Image Generator](https://gh-card.dev/repos/w4simg/Image_generat0r.svg?fullname=1)](https://github.com/w4simg/Image_generat0r)
 
 🌐 [w4simz.github.io/Image_generat0r](https://w4simz.github.io/Image_generat0r) · `HTML` · ⭐ 1
 
@@ -179,7 +179,7 @@ hireable:     true
 ### 🎥 [ASCII Video Generator](https://github.com/w4simg/ascii-video-generator)
 > *Transform videos into arcane ASCII art*
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=w4simg&repo=ascii-video-generator&theme=midnight-purple&bg_color=0d0d2b&border_color=7c3aed&title_color=a78bfa&text_color=e2e8f0)](https://github.com/w4simg/ascii-video-generator)
+[![ASCII Video Generator](https://gh-card.dev/repos/w4simg/ascii-video-generator.svg?fullname=1)](https://github.com/w4simg/ascii-video-generator)
 
 🌐 [w4simz.github.io/ascii-video-generator](https://w4simz.github.io/ascii-video-generator) · `JavaScript` · ⭐ 1
 
@@ -189,7 +189,7 @@ hireable:     true
 ### 📐 [Img Resizer](https://github.com/w4simg/Img-resizer)
 > *Reshape reality (images) at will*
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=w4simg&repo=Img-resizer&theme=midnight-purple&bg_color=0d0d2b&border_color=7c3aed&title_color=a78bfa&text_color=e2e8f0)](https://github.com/w4simg/Img-resizer)
+[![Img Resizer](https://gh-card.dev/repos/w4simg/Img-resizer.svg?fullname=1)](https://github.com/w4simg/Img-resizer)
 
 🌐 [w4simg.github.io/Img-resizer](https://w4simg.github.io/Img-resizer) · `HTML` · ⭐ 1
 
@@ -203,7 +203,7 @@ hireable:     true
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4simg&layout=donut&theme=midnight-purple&bg_color=0d0d2b&border_color=7c3aed&title_color=a78bfa&text_color=e2e8f0&langs_count=8" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4simg&layout=compact&theme=midnight-purple&bg_color=0d0d2b&border_color=7c3aed&title_color=a78bfa&text_color=e2e8f0&langs_count=8" width="55%" />
 
 </div>
 
