@@ -203,7 +203,11 @@ hireable:     true
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4simg&layout=compact&theme=midnight-purple&bg_color=0d0d2b&border_color=7c3aed&title_color=a78bfa&text_color=e2e8f0&langs_count=8" width="55%" />
+![HTML](https://img.shields.io/badge/HTML-45%25-e34f26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d0d2b)
+![JavaScript](https://img.shields.io/badge/JavaScript-25%25-f7df1e?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d0d2b)
+![TypeScript](https://img.shields.io/badge/TypeScript-15%25-3178c6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d0d2b)
+![Python](https://img.shields.io/badge/Python-10%25-3776ab?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0d2b)
+![CSS](https://img.shields.io/badge/CSS-5%25-1572b6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d0d2b)
 
 </div>
 
