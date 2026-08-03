@@ -47,6 +47,16 @@ class Wasim:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/w4simg/w4simg/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br/>
+
+<a href="https://git.io/streak-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=w4simg&theme=github-dark-blue&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=w4simg&theme=default&hide_border=true">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=w4simg&theme=default&hide_border=true">
+  </picture>
+</a>
+
 <br/><br/>
 
 ### 📫 Connect with me
