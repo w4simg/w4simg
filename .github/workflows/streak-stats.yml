@@ -24,7 +24,7 @@ jobs:
         with:
           options: user=w4simg&theme=github-dark-blue&hide_border=true
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STREAK_TOKEN || secrets.GITHUB_TOKEN }}
           
       - name: Commit streak stats
         run: |
