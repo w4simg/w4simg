@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=w4simg&fontSize=80&fontColor=e6edf3&animation=fadeIn&fontAlignY=42&desc=Python%20Developer%20%E2%80%A2%20Tool%20Builder%20%E2%80%A2%20Full-stack%20Developer&descAlignY=62&descColor=6e7681&descSize=16" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=w4simg&style=for-the-badge&color=blue" alt="Profile Views" />
+<img src="https://views.igorkowalczyk.dev/api/badge/w4simg?label=Profile+Views&color=0078d7" alt="Profile Views" />
 
 <br/>
 
